@@ -13,7 +13,7 @@ The database contained data about:
 - order item refunds
 
 #### Schema of Maven's Database:
-<img src="https://github.com/shafin071/SQL-Tableau-for-eCommerce/blob/master/schema.JPG" width="500" height="300">
+<img src="https://github.com/shafin071/SQL-Tableau-for-eCommerce/blob/master/schema.JPG" width="800" height="500">
 
 ## Task:
 As part of the open-ended final project, built data-driven story in Tableau highlighting Maven's annual business performance
