@@ -34,13 +34,13 @@ As part of the open-ended final project, built data-driven story in Tableau high
 
 ## Result:
 Successfully highlighted business KPIs like:
-      - Session to order conversion rate
-      - Advertisement channel analysis and optimization
-      - Revenue and profit margin
-      - Product level analysis
-      - User level analysis
-      - Website vs Mobile app Click-Through-Rate (CTR)
-      - A/B test billing page variants to show revenue generated from the variants
+- Session to order conversion rate
+- Advertisement channel analysis and optimization
+- Revenue and profit margin
+- Product level analysis
+- User level analysis
+- Website vs Mobile app Click-Through-Rate (CTR)
+- A/B test billing page variants to show revenue generated from the variants
 Also used data trends to suggest strategies that could potentially optimize the business
 
 ## Resources used for this project:
